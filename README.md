@@ -50,9 +50,7 @@ Stack contents before buffer overflow:
 -------------------------
  base ptr   return addr
  
--------------------------
-
-
+ 
 
 Stack contents after buffer overflow:
 
