@@ -52,6 +52,8 @@ Stack contents before buffer overflow:
  
 -------------------------
 
+
+
 Stack contents after buffer overflow:
 
 -------------------------
