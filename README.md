@@ -26,7 +26,7 @@ Reference: http://crypto.stanford.edu/~blynn/rop/
 
 The object dump of this shell code is taken and is overflown appropriately in the program as described below.
 
-*Stack contents before buffer overflow:*
+**Stack contents before buffer overflow:**
 
 -----------------------
         password
@@ -49,11 +49,12 @@ The object dump of this shell code is taken and is overflown appropriately in th
     evil        good
 -------------------------
  base ptr   return addr
+ 
 ------------------------
  
  
 
-*Stack contents after buffer overflow:*
+**Stack contents after buffer overflow:**
 
 -------------------------
 1234567\0
