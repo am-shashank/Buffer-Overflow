@@ -49,6 +49,7 @@ Stack contents before buffer overflow:
     evil        good
 -------------------------
  base ptr   return addr
+ 
 -------------------------
 
 Stack contents after buffer overflow:
@@ -76,6 +77,7 @@ Stack contents after buffer overflow:
     0        0
 -------------------------
 addr of name addr of name
+
 -------------------------
 
 'name' and 'password' are given the same NULL terminated strings so that welcome() is called (and not evil() in which case, the program will exit)
