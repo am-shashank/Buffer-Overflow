@@ -2,7 +2,7 @@
 Simple illustration of a buffer overflow attack to hack a naive buggy Login program written in C and spawn a interactive shell using shell code.
 
 -------------------------------------------------------------
-# Attack Methodology
+ Attack Methodology
 -------------------------------------------------------------
 
 The folowing piece of assembly code is used as the shellcode:
