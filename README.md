@@ -103,5 +103,4 @@ However, it is very important to note that the EOF has been removed from the inp
 close it's stdin.
 
 It is also important to note that the exploit works only on systems with stack protection and few other security features disabled.
-                                     1,1           Top
 
